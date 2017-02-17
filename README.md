@@ -16,3 +16,5 @@ Contents:
                        
 - Circuit modelling:   contains dynamic simulations of the entire circuit presented on our poster
                        run using the hormones_menstruation.m wrapper script
+
+All simulation code was written for MATLAB 2016b.

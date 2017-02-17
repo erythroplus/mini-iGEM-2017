@@ -10,11 +10,9 @@ The system is based on a ratiometric hormone detector circuit with auto-sensitis
 Released under the CRAPL open-source license, provided in the LICENSE.md file.
 
 Contents:
-- Invertase modelling: stochastic modelling of PhiC31 invertase kinetics using a Gillespie algorithm
-                       hill_fit.m can be used to fit a sigmoid function to the resulting invertase trajectories
+- Invertase modelling: stochastic modelling of PhiC31 invertase kinetics using a Gillespie algorithm. sigmoid_fit.m can be used to fit a sigmoid function to the resulting invertase trajectories.
                        
                        
-- Circuit modelling:   contains dynamic simulations of the entire circuit presented on our poster
-                       run using the hormones_menstruation.m wrapper script
+- Circuit modelling:   contains dynamic simulations of the entire circuit presented on our poster. To run using the simulation use the hormones_menstruation.m wrapper script
 
 All simulation code was written for MATLAB 2016b.

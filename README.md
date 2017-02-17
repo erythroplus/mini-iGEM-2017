@@ -7,7 +7,7 @@ The project devises a synthetic gene system to sense progesterone-to-estradiol r
 minimimze anaemia during cyclic blood loss, part of the female reproductive cycle.
 The system is based on a ratiometric hormone detector circuit with auto-sensitisation, and a recombinase switch.
 
-Released under the CRAPL open-source license.
+Released under the CRAPL open-source license, provided in the LICENSE.md file.
 
 Contents:
 - Invertase modelling: stochastic modelling of PhiC31 invertase kinetics using a Gillespie algorithm
